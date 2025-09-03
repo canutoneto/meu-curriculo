@@ -1,0 +1,45 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    max-width: 1270px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(39, 237, 237);
+    margin-top: auto;   
+    font-size: 40px;    
+}
+
+.informação{
+    text-align: center;
+    
+}
+
+
+
+h2{
+    font-size: 32px;
+    background-color: grey;
+    color: rgb(7, 7, 85);
+    padding: 10px;
+    border-bottom: solid rgb(7, 7, 85);
+    
+}
+
+span{
+    color: blue;
+}
+
+main{
+    max-width: 1270px;
+    margin: 0px auto;
+}
+
+ul{
+    padding-left: 0;
+    list-style-position: inside;
+}
